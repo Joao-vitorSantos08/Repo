@@ -111,23 +111,6 @@ As seguintes tecnologias e ferramentas foram utilizadas na construção do proje
 * **[Vite](https://vite.dev/)**
 ---
 
-## 📚 Conceitos praticados
-
-Durante o desenvolvimento deste projeto, foram praticados conceitos como:
-
-* Componentização no React;
-* Gerenciamento de estados;
-* Hooks;
-* Consumo de APIs;
-* Requisições HTTP;
-* Manipulação e exibição de dados recebidos de uma API;
-* Rotas e navegação;
-* Paginação;
-* Filtros;
-* Estilização utilizando Styled Components;
-* Utilização de componentes de ícones.
-
----
 
 ## 👨‍💻 Autor
 
